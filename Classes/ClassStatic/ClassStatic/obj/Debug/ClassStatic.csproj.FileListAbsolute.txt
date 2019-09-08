@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\bin\Debug\ClassStatic.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\bin\Debug\ClassStatic.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\bin\Debug\ClassStatic.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\obj\Debug\ClassStatic.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\obj\Debug\ClassStatic.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\obj\Debug\ClassStatic.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassStatic\ClassStatic\obj\Debug\ClassStatic.pdb
