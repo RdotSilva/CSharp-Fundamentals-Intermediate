@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\bin\Debug\StopwatchExercise.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\bin\Debug\StopwatchExercise.exe
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\bin\Debug\StopwatchExercise.pdb
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\obj\Debug\StopwatchExercise.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\obj\Debug\StopwatchExercise.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\obj\Debug\StopwatchExercise.exe
+C:\C# Projects\Mosh Intermediate\Classes\StopwatchExercise\StopwatchExercise\obj\Debug\StopwatchExercise.pdb
