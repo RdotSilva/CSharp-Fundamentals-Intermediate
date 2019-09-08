@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\bin\Debug\ClassConstructors.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\bin\Debug\ClassConstructors.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\bin\Debug\ClassConstructors.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\obj\Debug\ClassConstructors.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\obj\Debug\ClassConstructors.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\obj\Debug\ClassConstructors.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassConstructors\ClassConstructors\obj\Debug\ClassConstructors.pdb
