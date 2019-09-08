@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\obj\Debug\ClassFields.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\obj\Debug\ClassFields.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\bin\Debug\ClassFields.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\bin\Debug\ClassFields.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\bin\Debug\ClassFields.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\obj\Debug\ClassFields.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassFields\ClassFields\obj\Debug\ClassFields.pdb
