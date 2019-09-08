@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\bin\Debug\ClassIndexers.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\bin\Debug\ClassIndexers.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\bin\Debug\ClassIndexers.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.pdb
