@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb
