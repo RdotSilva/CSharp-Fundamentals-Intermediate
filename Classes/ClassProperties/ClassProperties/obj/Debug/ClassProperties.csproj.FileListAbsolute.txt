@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\bin\Debug\ClassProperties.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\bin\Debug\ClassProperties.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\bin\Debug\ClassProperties.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\obj\Debug\ClassProperties.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\obj\Debug\ClassProperties.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\obj\Debug\ClassProperties.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassProperties\ClassProperties\obj\Debug\ClassProperties.pdb
