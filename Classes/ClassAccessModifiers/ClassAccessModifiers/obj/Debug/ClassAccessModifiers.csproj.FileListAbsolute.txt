@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\bin\Debug\ClassAccessModifiers.exe.config
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\bin\Debug\ClassAccessModifiers.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\bin\Debug\ClassAccessModifiers.pdb
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.exe
+C:\C# Projects\Mosh Intermediate\Classes\ClassAccessModifiers\ClassAccessModifiers\obj\Debug\ClassAccessModifiers.pdb
