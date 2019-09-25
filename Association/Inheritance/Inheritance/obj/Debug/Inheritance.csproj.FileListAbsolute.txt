@@ -1,0 +1,7 @@
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\C# Projects\Mosh Intermediate\Association\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
