@@ -4,17 +4,15 @@ namespace StopwatchExercise
 {
     public class Stopwatch
     {
-        private DateTime _startTime = DateTime.UtcNow;
+        private DateTime _startTime;
         private DateTime _endTime;
         private bool _previouslyStarted;
 
         public void StartTimer()
         {
-            // Start timer if it hasn't already been started.
             if (_previouslyStarted)
-            {
                 throw new InvalidOperationException("Timer has already been started");
-            }
+            
 
             Console.WriteLine("Timer started.");
 
@@ -24,15 +22,18 @@ namespace StopwatchExercise
 
         public void StopTimer()
         {
-            this._endTime = DateTime.UtcNow;
+            if(!_previouslyStarted)
+                throw new InvalidOperationException("Timer is not running");
+
+            _endTime = DateTime.UtcNow;
             _previouslyStarted = false;
+
             Console.WriteLine("Timer stopped.");
             
         }
 
-        public TimeSpan Duration()
+        public TimeSpan GetTimeElapsed()
         {
-            // Returns the total time elapsed.
             return _endTime - _startTime;
         }
     }

@@ -11,7 +11,9 @@ namespace StopwatchExercise
         static void Main(string[] args)
         {
             var stopWatch = new Stopwatch();
-            Console.WriteLine("Press ENTER to start timer and ENTER to stop timer.");
+
+            Greeting.Greet();
+
             while (true)
             {
                 var input = Console.ReadLine();
@@ -19,9 +21,15 @@ namespace StopwatchExercise
                 if (string.IsNullOrWhiteSpace(input))
                 {
                     stopWatch.StartTimer();
+
                     Console.ReadLine();
+
                     stopWatch.StopTimer();
-                    Console.WriteLine(stopWatch.Duration().TotalSeconds + " seconds elapsed.");
+
+                    Console.WriteLine(stopWatch.GetTimeElapsed().TotalSeconds + " seconds elapsed.");
+
+                    Greeting.Greet();
+
                     continue;
                 }
 
